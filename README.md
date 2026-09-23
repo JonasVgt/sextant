@@ -12,6 +12,8 @@ a reliable backup to modern GPS technology.
 
 ## This Project
 
+![FreeCAD preview of the sextant](img/freecad.png)
+
 After being caught in a rabbit hole of astronavigation, I 
 wanted to experiment with navigation using sextants. 
 Unfortunately, I quickly found  out that these devices are 
